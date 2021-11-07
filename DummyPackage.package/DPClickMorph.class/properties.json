@@ -1,0 +1,14 @@
+{
+	"category" : "DummyPackage",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DPClickMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
