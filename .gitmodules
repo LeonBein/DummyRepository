@@ -1,0 +1,3 @@
+[submodule "DummySubmodule"]
+	path = DummySubmodule
+	url = git@github.com:LeonBein/DummySubmodule.git
